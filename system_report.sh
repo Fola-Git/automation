@@ -3,7 +3,7 @@
 # Filename for the report
 REPORT_DETAILS="system_report.txt"
 NAME="Folashade"
-SLACK_WEBHOOK_URL="https://hooks.slack.com/services/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"
+SLACK_WEBHOOK_URL="https://...."
 
 # Create or clear the report file
 echo "Generating system report......" > "$REPORT_DETAILS"
