@@ -70,6 +70,9 @@ The cron job ensures the script runs automatically at 8 AM every day. You can cu
 ├── system_report.sh     # Bash script for generating system reports and sending to Slack
 ├── README.md            # Documentation for the project
 ```
+## Output
+
+![Daily Report Screenshot](result.png)
 
 ## Conclusion
 This project automates the generation of daily system performance reports and sends them to a designated Slack channel, allowing for efficient and convenient system monitoring. The use of cron ensures that the script runs regularly without requiring manual intervention, and the Slack integration provides real-time visibility of system metrics.
